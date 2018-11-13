@@ -1,5 +1,7 @@
 {
   "name": "geolocation-bug",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
